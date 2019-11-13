@@ -1,0 +1,8 @@
+{
+  "appId": "com.andrelashley.snapaday",
+  "appName": "snapaday",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
